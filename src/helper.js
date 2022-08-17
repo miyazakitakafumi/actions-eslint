@@ -3,7 +3,7 @@ const add = (x, y) => x + y
 const identify = (x) => x
 
 const invalidFunc = () => {
-  console.log('hoge')
+  return 'hoge'
 }
 
 module.exports = {
