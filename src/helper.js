@@ -1,6 +1,6 @@
 const add = (x, y) => x + y
 
-const identify = (x) => x
+const identify = (y) => y
 
 module.exports = {
   add,
