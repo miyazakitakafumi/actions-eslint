@@ -1,4 +1,4 @@
 const { add } = require('./helper.js')
 
-const reulst = add(1, 3)
-console.log(reulst)
+const result = add(1, 3)
+console.log(result)
